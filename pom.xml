@@ -297,13 +297,13 @@
       <dependency>
         <groupId>org.sonatype.nexus</groupId>
         <artifactId>nexus-oss-edition</artifactId>
-        <version>3.2.0-SNAPSHOT</version>
+        <version>3.22.0-02</version>
       </dependency>
 
       <dependency>
         <groupId>org.sonatype.nexus</groupId>
         <artifactId>nexus-oss-edition</artifactId>
-        <version>3.2.0-SNAPSHOT</version>
+        <version>3.22.0-02</version>
         <classifier>features</classifier>
         <type>xml</type>
       </dependency>
